@@ -67,14 +67,14 @@ constructor(props) {
                 <div className="input-group-append">
                 <div className="input-group-text">
                     <img src={tokenLogo} height='32' alt=""/>
-                    &nbsp; DApp
+                    &nbsp; Doge
                 </div>
                 </div>
             </div>
 
             <div className="mb-5">
                 <span className="float-left text-muted">Exchange Rate</span>
-                <span className="float-right text-muted">1 ETH = 100 DApp</span>
+                <span className="float-right text-muted">1 ETH = 100 Doge</span>
             </div>  
 
             <button type="submit" className="btn btn-primary btn-block btn-lg">SWAP!</button>

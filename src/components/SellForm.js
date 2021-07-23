@@ -44,7 +44,7 @@ constructor(props) {
                 <div className="input-group-append">
                 <div className="input-group-text">
                     <img src={tokenLogo} height='32' alt=""/>
-                    &nbsp;&nbsp;&nbsp; DApp
+                    &nbsp;&nbsp;&nbsp; Doge
                 </div>
                 </div>
             </div>
@@ -74,7 +74,7 @@ constructor(props) {
 
             <div className="mb-5">
                 <span className="float-left text-muted">Exchange Rate</span>
-                <span className="float-right text-muted">100 DApp = 1 ETH</span>
+                <span className="float-right text-muted">100 Doge = 1 ETH</span>
             </div>  
 
             <button type="submit" className="btn btn-primary btn-block btn-lg">SWAP!</button>
